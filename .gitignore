@@ -1,6 +1,8 @@
 .vscode/
 submission/
 my_logs/
+src/grading/
+src/train/
 
 test.ipynb
 studentID.json
